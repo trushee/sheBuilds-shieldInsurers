@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+h1{
+    position: relative;
+    left:28%;
+    color: white;
+    font-family: "Poppins";
+    font-size: 2vw;;
+    text-decoration: none;
+}
+.image{
+    position: relative;
+    left:45%;
+    top: 6%;
+    transform: scale(1.5);
+}
+a{
+    text-decoration: none;
+}
+h2{
+    position: relative;
+    left:42%;
+    color: white;
+    font-family: "Poppins";
+    font-size: 1.8vw;;
+    text-decoration: none;
+}
+
+h2:hover{
+    color:rgb(172, 78, 250);
+}
